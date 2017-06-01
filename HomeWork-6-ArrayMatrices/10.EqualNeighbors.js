@@ -11,7 +11,10 @@ function findEquaNeighobrs(matrix) {
                     counter++;
                 }
             } else {
-                if (matrix[row][col] == matrix[row][col + 1] || matrix[row][col] == matrix[row + 1][col]) {
+                if (matrix[row][col] == matrix[row][col + 1]){
+                    counter++;
+                }
+                if (matrix[row][col] == matrix[row + 1][col]) {
                     counter++;
                 }
             }
@@ -21,8 +24,8 @@ function findEquaNeighobrs(matrix) {
 }
 
 findEquaNeighobrs(
-    [['1', 'yes', '2', '3'],
-        ['1', '4', 'yo', '3'],
-        ['1', '4', 'yet', '3']]
+    [['1', '1', '2', '2'],
+        ['e', '4', 'yo', '213'],
+        ['2', '4', '3', '3']]
 
 );
