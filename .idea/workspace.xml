@@ -2,6 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31ae808e-4f21-4448-87d9-ad73f5dd9024" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork-7-ArrayMatricesExer/1.PrintArrayWithDelimiter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork-7-ArrayMatricesExer/2.PrintN-thElementArray.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork-7-ArrayMatricesExer/3.AddRemoveElementsArray.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork-7-ArrayMatricesExer/4.RotateArray.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork-7-ArrayMatricesExer/5.ExtractNon-decreasingSubsequencefromArray.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork-7-ArrayMatricesExer/6.Sort Arrayby2Criteria.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork-7-ArrayMatricesExer/7.MagicMatrices.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HomeWork-6-ArrayMatrices/10.EqualNeighbors.js" afterPath="$PROJECT_DIR$/HomeWork-6-ArrayMatrices/10.EqualNeighbors.js" />
     </list>
     <ignored path="JavaScript.iws" />
@@ -25,23 +33,49 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="9.DiagonalSums.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HomeWork-6-ArrayMatrices/9.DiagonalSums.js">
+      <file leaf-file-name="7.MagicMatrices.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HomeWork-7-ArrayMatricesExer/7.MagicMatrices.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
-              <folding />
+            <state relative-caret-position="351">
+              <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc;n#isMatrixMagic#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="10.EqualNeighbors.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/HomeWork-6-ArrayMatrices/10.EqualNeighbors.js">
+      <file leaf-file-name="8.SpiralMatrix.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HomeWork-7-ArrayMatricesExer/8.SpiralMatrix.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="19" column="13" selection-start-line="0" selection-start-column="0" selection-end-line="30" selection-end-column="2" />
+            <state relative-caret-position="-618">
+              <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
               <folding>
-                <element signature="n#!!doc;n#findEquaNeighobrs#0" expanded="false" />
+                <element signature="n#!!doc;n#generateSpiralMatrix#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="9.DiagonalAttack.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HomeWork-7-ArrayMatricesExer/9.DiagonalAttack.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="26" selection-end-column="1" />
+              <folding>
+                <element signature="n#!!doc;n#diagonalAttack#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="10.Orbit.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HomeWork-7-ArrayMatricesExer/10.Orbit.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="32" selection-end-column="1" />
+              <folding>
+                <element signature="n#!!doc;n#drawDashbord#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -62,17 +96,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/HomeWork-2/9.ColorfulNumbers.js" />
-        <option value="$PROJECT_DIR$/HomeWork-2/10.ChessBoard.js" />
-        <option value="$PROJECT_DIR$/HomeWork-2/11.BinaryLogarithm.js" />
-        <option value="$PROJECT_DIR$/HomeWork-2/12.PrimeNumberChecker.js" />
-        <option value="$PROJECT_DIR$/HomeWork-3/1.Hello-JavaScript.js" />
-        <option value="$PROJECT_DIR$/HomeWork-3/2.AreaAndPerimeter.js" />
-        <option value="$PROJECT_DIR$/HomeWork-3/3.DistanceOverTime.js" />
-        <option value="$PROJECT_DIR$/HomeWork-3/DistanceIn3D.js" />
-        <option value="$PROJECT_DIR$/HomeWork-3/5.GradsToDegrees.js" />
-        <option value="$PROJECT_DIR$/HomeWork-3/6.CompoundInterest.js" />
-        <option value="$PROJECT_DIR$/HomeWork-3/7.Rounding.js" />
         <option value="$PROJECT_DIR$/HomeWork-3/8.ImperialUnits.js" />
         <option value="$PROJECT_DIR$/HomeWork-3/9.NowPlaying.js" />
         <option value="$PROJECT_DIR$/HomeWork-3/10.ComposeTag.js" />
@@ -113,6 +136,17 @@
         <option value="$PROJECT_DIR$/HomeWork-6-ArrayMatrices/8.BiggestElement.js" />
         <option value="$PROJECT_DIR$/HomeWork-6-ArrayMatrices/9.DiagonalSums.js" />
         <option value="$PROJECT_DIR$/HomeWork-6-ArrayMatrices/10.EqualNeighbors.js" />
+        <option value="$PROJECT_DIR$/HomeWork-7-ArrayMatricesExer/1.PrintArrayWithDelimiter.js" />
+        <option value="$PROJECT_DIR$/HomeWork-7-ArrayMatricesExer/2.PrintN-thElementArray.js" />
+        <option value="$PROJECT_DIR$/HomeWork-7-ArrayMatricesExer/3.AddRemoveElementsArray.js" />
+        <option value="$PROJECT_DIR$/HomeWork-7-ArrayMatricesExer/4.RotateArray.js" />
+        <option value="$PROJECT_DIR$/HomeWork-7-ArrayMatricesExer/5.ExtractNon-decreasingSubsequencefromArray.js" />
+        <option value="$PROJECT_DIR$/HomeWork-7-ArrayMatricesExer/6.Sort Arrayby2Criteria.js" />
+        <option value="$PROJECT_DIR$/HomeWork-7-ArrayMatricesExer/7.MagicMatrices.js" />
+        <option value="$PROJECT_DIR$/HomeWork-7-ArrayMatricesExer/8.SpiralMatrix.js" />
+        <option value="$PROJECT_DIR$/HomeWork-7-ArrayMatricesExer/9.DiagonalAttack.js" />
+        <option value="$PROJECT_DIR$/HomeWork-7-ArrayMatricesExer/10,Orbit.js" />
+        <option value="$PROJECT_DIR$/HomeWork-7-ArrayMatricesExer/10.Orbit.js" />
       </list>
     </option>
   </component>
@@ -125,7 +159,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="1" />
     <option name="y" value="1" />
-    <option name="width" value="1351" />
+    <option name="width" value="1348" />
     <option name="height" value="725" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -153,8 +187,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -183,12 +215,14 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="HomeWork-6-ArrayMatrices" />
+              <option name="myItemId" value="HomeWork-7-ArrayMatricesExer" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -201,20 +235,20 @@
     <property name="nodejs_interpreter_path" value="C:/Program Files (x86)/nodejs/node" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
   </component>
-  <component name="RunManager" selected="Node.js.10.EqualNeighbors.js">
-    <configuration default="false" name="6.ProcessOddNumbers.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="6.ProcessOddNumbers.js" working-dir="$PROJECT_DIR$/HomeWork-6-ArrayMatrices">
+  <component name="RunManager" selected="Node.js.10.Orbit.js">
+    <configuration default="false" name="6.Sort Arrayby2Criteria.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="6.Sort Arrayby2Criteria.js" working-dir="$PROJECT_DIR$/HomeWork-7-ArrayMatricesExer">
       <method />
     </configuration>
-    <configuration default="false" name="7.SmallestTwoNumbers.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="7.SmallestTwoNumbers.js" working-dir="$PROJECT_DIR$/HomeWork-6-ArrayMatrices">
+    <configuration default="false" name="7.MagicMatrices.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="7.MagicMatrices.js" working-dir="$PROJECT_DIR$/HomeWork-7-ArrayMatricesExer">
       <method />
     </configuration>
-    <configuration default="false" name="8.BiggestElement.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="8.BiggestElement.js" working-dir="$PROJECT_DIR$/HomeWork-6-ArrayMatrices">
+    <configuration default="false" name="8.SpiralMatrix.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="8.SpiralMatrix.js" working-dir="$PROJECT_DIR$/HomeWork-7-ArrayMatricesExer">
       <method />
     </configuration>
-    <configuration default="false" name="9.DiagonalSums.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="9.DiagonalSums.js" working-dir="$PROJECT_DIR$/HomeWork-6-ArrayMatrices">
+    <configuration default="false" name="9.DiagonalAttack.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="9.DiagonalAttack.js" working-dir="$PROJECT_DIR$/HomeWork-7-ArrayMatricesExer">
       <method />
     </configuration>
-    <configuration default="false" name="10.EqualNeighbors.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="10.EqualNeighbors.js" working-dir="$PROJECT_DIR$/HomeWork-6-ArrayMatrices">
+    <configuration default="false" name="10.Orbit.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="10.Orbit.js" working-dir="$PROJECT_DIR$/HomeWork-7-ArrayMatricesExer">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -271,19 +305,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.6.ProcessOddNumbers.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.7.SmallestTwoNumbers.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.8.BiggestElement.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.9.DiagonalSums.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.10.EqualNeighbors.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.6.Sort Arrayby2Criteria.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.7.MagicMatrices.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.8.SpiralMatrix.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.9.DiagonalAttack.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.10.Orbit.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.10.EqualNeighbors.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.9.DiagonalSums.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.8.BiggestElement.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.7.SmallestTwoNumbers.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.6.ProcessOddNumbers.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.10.Orbit.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.9.DiagonalAttack.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.8.SpiralMatrix.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.7.MagicMatrices.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.6.Sort Arrayby2Criteria.js" />
       </list>
     </recent_temporary>
   </component>
@@ -307,22 +341,23 @@
       <workItem from="1496141618438" duration="3935000" />
       <workItem from="1496167592547" duration="11201000" />
       <workItem from="1496301829617" duration="6736000" />
-      <workItem from="1496337654979" duration="3440000" />
+      <workItem from="1496337654979" duration="11184000" />
+      <workItem from="1496509371896" duration="16372000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="91972000" />
+    <option name="totallyTimeSpent" value="116088000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="1" width="1351" height="725" extended-state="0" />
+    <frame x="1" y="1" width="1348" height="725" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25093633" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2515015" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -354,76 +389,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/HomeWork-1/2.SumAndVAT.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HomeWork-2/11.BinaryLogarithm.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HomeWork-2/12.PrimeNumberChecker.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HomeWork-3/1.Hello-JavaScript.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HomeWork-3/2.AreaAndPerimeter.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HomeWork-3/3.DistanceOverTime.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="18" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HomeWork-3/4.DistanceIn3D.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HomeWork-3/5.GradsToDegrees.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HomeWork-3/6.CompoundInterest.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HomeWork-3/8.ImperialUnits.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HomeWork-3/13.LastMonth.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -694,7 +659,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -712,6 +676,106 @@
           <caret line="19" column="13" selection-start-line="0" selection-start-column="0" selection-end-line="30" selection-end-column="2" />
           <folding>
             <element signature="n#!!doc;n#findEquaNeighobrs#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomeWork-7-ArrayMatricesExer/1.PrintArrayWithDelimiter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc;n#printArray#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomeWork-7-ArrayMatricesExer/2.PrintN-thElementArray.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="12" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!doc;n#printNElement#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomeWork-7-ArrayMatricesExer/3.AddRemoveElementsArray.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="23" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!doc;n#slove#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomeWork-7-ArrayMatricesExer/4.RotateArray.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="16" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!doc;n#rotate#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomeWork-7-ArrayMatricesExer/5.ExtractNon-decreasingSubsequencefromArray.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="20" column="50" selection-start-line="20" selection-start-column="50" selection-end-line="20" selection-end-column="50" />
+          <folding>
+            <element signature="n#!!doc;n#findSequence#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomeWork-7-ArrayMatricesExer/6.Sort Arrayby2Criteria.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="24" column="1" selection-start-line="3" selection-start-column="0" selection-end-line="24" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!doc;n#sortArray#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomeWork-7-ArrayMatricesExer/7.MagicMatrices.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc;n#isMatrixMagic#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomeWork-7-ArrayMatricesExer/8.SpiralMatrix.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-618">
+          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+          <folding>
+            <element signature="n#!!doc;n#generateSpiralMatrix#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomeWork-7-ArrayMatricesExer/9.DiagonalAttack.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="26" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!doc;n#diagonalAttack#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomeWork-7-ArrayMatricesExer/10.Orbit.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="32" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!doc;n#drawDashbord#0" expanded="false" />
           </folding>
         </state>
       </provider>
